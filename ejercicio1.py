@@ -3,6 +3,8 @@
 a=int(input("ingresa el primer numero: "))
 b=int(input("ingresa el segundo numero: "))
 
+print("hola")
+
 print("la suma de los dos numeros es: ", a+b)
 print("la resta de los dos numeros es: ", a-b)
 print("la multiplicacion de los dos numeros es: ", a*b)
